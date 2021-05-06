@@ -1,0 +1,26 @@
+[
+    {
+      "name": "project1",
+      "live": "https://topstory.vercel.app/",
+      "git": "https://github.com/jamieroszel/topstory",
+      "image": "https://i.imgur.com/ugUCx6g.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://weatherd-h7a7b9nsu-jamieroszel.vercel.app/",
+      "git": "https://github.com/jamieroszel/weatherd",
+      "image": "https://i.imgur.com/E1NMCfw.png"
+    },
+    {
+      "name": "project3",
+      "live": "https://imageendless.herokuapp.com/",
+      "git": "https://github.com/jamieroszel/imagelover",
+      "image": "https://i.imgur.com/TjedXQB.png"
+    },
+    {
+      "name": "project4",
+      "live": "https://markdowndev.herokuapp.com/",
+      "git": "https://github.com/jamieroszel/project2.4",
+      "image": "https://i.imgur.com/uhIfYyk.png"
+    }
+  ]
